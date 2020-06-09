@@ -1,0 +1,29 @@
+{
+  "name": "webpack-plugin-chmod",
+  "version": "1.0.0",
+  "description": "Set File Permission using GLOB on Webpack build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webpack-plugin-chmod"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "chmod",
+    "file",
+    "permission",
+    "permissions",
+    "node",
+    "lambda",
+    "serverless"
+  ],
+  "author": "Matteo Zambon <matteo@tweak.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
